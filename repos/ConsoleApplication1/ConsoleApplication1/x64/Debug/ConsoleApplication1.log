@@ -1,0 +1,8 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\berkan\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(1,1): error C2059: syntax error: 'user-defined literal'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\sal.h(2361,12): error C2143: syntax error: missing ';' before '{'
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\sal.h(2361,12): error C2447: '{': missing function header (old-style formal list?)
+  (compiling source file 'ConsoleApplication1.cpp')
+  

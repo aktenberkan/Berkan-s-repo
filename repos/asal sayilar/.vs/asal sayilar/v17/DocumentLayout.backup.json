@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\berkan\\source\\repos\\asal sayilar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C46F0B4E-FDBF-4FE5-B50D-1B64ECCAC1F7}|asal sayilar\\asal sayilar.vcxproj|C:\\Users\\berkan\\source\\repos\\asal sayilar\\asal sayilar\\asal sayilar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C46F0B4E-FDBF-4FE5-B50D-1B64ECCAC1F7}|asal sayilar\\asal sayilar.vcxproj|solutionrelative:asal sayilar\\asal sayilar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "asal sayilar.cpp",
+              "DocumentMoniker": "C:\\Users\\berkan\\source\\repos\\asal sayilar\\asal sayilar\\asal sayilar.cpp",
+              "RelativeDocumentMoniker": "asal sayilar\\asal sayilar.cpp",
+              "ToolTip": "C:\\Users\\berkan\\source\\repos\\asal sayilar\\asal sayilar\\asal sayilar.cpp*",
+              "RelativeToolTip": "asal sayilar\\asal sayilar.cpp*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-13T15:41:11.826Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

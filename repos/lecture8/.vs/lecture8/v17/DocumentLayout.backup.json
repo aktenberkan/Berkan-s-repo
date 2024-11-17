@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\berkan\\source\\repos\\lecture8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1F682ED-D564-4346-898E-E2A606770F3D}|lecture8\\lecture8.vcxproj|C:\\Users\\berkan\\source\\repos\\lecture8\\lecture8\\lecture8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1F682ED-D564-4346-898E-E2A606770F3D}|lecture8\\lecture8.vcxproj|solutionrelative:lecture8\\lecture8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lecture8.cpp",
+              "DocumentMoniker": "C:\\Users\\berkan\\source\\repos\\lecture8\\lecture8\\lecture8.cpp",
+              "RelativeDocumentMoniker": "lecture8\\lecture8.cpp",
+              "ToolTip": "C:\\Users\\berkan\\source\\repos\\lecture8\\lecture8\\lecture8.cpp",
+              "RelativeToolTip": "lecture8\\lecture8.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-11T06:54:36.1Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
