@@ -1,0 +1,10 @@
+﻿  homework.cpp
+C:\Users\berkan\source\repos\homework\homework\func.h(69,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file 'homework.cpp')
+  
+C:\Users\berkan\source\repos\homework\homework\func.h(72,36): warning C4305: '=': truncation from 'int' to 'bool'
+  (compiling source file 'homework.cpp')
+  
+C:\Users\berkan\source\repos\homework\homework\func.h(72,25): error C2106: '=': left operand must be l-value
+  (compiling source file 'homework.cpp')
+  
